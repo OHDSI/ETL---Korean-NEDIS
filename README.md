@@ -1,2 +1,2 @@
 # NEDIS_ETL
-ETL of NEDIS data
+ETL for NEDIS data
